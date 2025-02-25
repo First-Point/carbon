@@ -30,6 +30,10 @@ We utilize TheGraph for querying blockchain data efficiently. This integration a
 ![MacBook Pro 14_ - 4](https://github.com/izzetemredemir/carbon/assets/11755605/c1bd7636-2bc3-4d1c-990e-e16965938b64)
 
 
+## License
+This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+Commercial use is prohibited.
+See the LICENSE file for more details.
 
 
 
